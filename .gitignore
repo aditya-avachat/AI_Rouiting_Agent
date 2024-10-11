@@ -3,3 +3,8 @@
 
 # Ignore virtual environment
 myenv/
+
+
+# ignore reference/test codes
+
+ref/
