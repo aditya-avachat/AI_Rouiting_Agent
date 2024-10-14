@@ -1,10 +1,9 @@
 # ignore enviornment file
 .env
-
 # Ignore virtual environment
 myenv/
-
-
 # ignore reference/test codes
-
 ref/
+# ignore cache
+__pycache__/
+*.pyc
