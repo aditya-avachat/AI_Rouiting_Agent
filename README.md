@@ -26,8 +26,8 @@ Before installing and running the AIRoutingAgent, ensure you have the following:
 1. **Clone the repository**:
 
    ```bash
-      git clone https://github.com/yourusername/AIRoutingAgent.git
-      cd AIRoutingAgent
+   git clone https://github.com/yourusername/AIRoutingAgent.git
+   cd AIRoutingAgent
    ```
 
 2. **Create a virtual environment**:
